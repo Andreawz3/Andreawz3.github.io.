@@ -1,0 +1,15 @@
+{
+    "person": {
+        "firstName": "Andrea",
+        "lastName": "Wu"
+    },
+    "work": {
+        "job": "Web Developer",
+        "program": "Digital Desing and Development Diploma",
+        "url": "https://github.com/Andreawz3"
+    },
+    "study": {
+        "program": ["Digital Desing and Development Diploma", "Computer Science", "Web Development"],
+        "department": "British Columbia Institute of Technology"
+    }
+}
